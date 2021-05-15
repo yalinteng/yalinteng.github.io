@@ -1,4 +1,33 @@
 ## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8”>
+     <title>播放视频</title>
+     <style type="text/css">
+        ·cont {
+            width: 700px;
+            height: 500px;
+            padding: 50px 100px;
+            margin:  20px auto;
+            text-align: center;
+            background-image: url("bg1.jpg");
+            background-size: 100%  100%;
+         }
+       </style>
+</head>
+<body>
+<video src="test.mp4 controls="controls">
+</video>
+    <div style="" class="cont"> 
+   <video 
+      src="MP4.mp4"
+      controls="controls" 
+      width="700" heigh="500" autoplay loop >
+</video>
+      </div>
+</body>
+</html>
 
 You can use the [editor on GitHub](https://github.com/yalinteng/yalinteng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
