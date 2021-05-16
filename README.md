@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
-<!DOCTYPE html>
+You can use the [视频播放](https://github.com/yalinteng/yalinteng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+!DOCTYPE html>
 <html lang="en">
 <head>
      <meta charset="UTF-8”>
