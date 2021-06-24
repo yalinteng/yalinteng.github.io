@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-You can use the [播放视频](https://github.com/yalinteng/yalinteng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [播放视频](位置：手机存储/DCIM/Camera/4fc863e36107c8f529aad71906944a8c.m
+p4)
+ to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
