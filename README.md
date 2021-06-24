@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-You can use the [播放视频](位置：手机存储/DCIM/Camera/4fc863e36107c8f529aad71906944a8c.m
+You can use the [播放视频](http//:DCIM/Camera/4fc863e36107c8f529aad71906944a8c.m
 p4)
  to maintain and preview the content for your website in Markdown files.
 
