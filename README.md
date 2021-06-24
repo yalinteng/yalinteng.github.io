@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-You can use the [播放视频](手机存储/pictures/weixin/
+You can use the [播放视频](http://pictures/weixin/
 mmexport1621137051014.mp4
 )
  to maintain and preview the content for your website in Markdown files.
